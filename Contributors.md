@@ -66,6 +66,7 @@ happy# Contributors
 - [KISHOREkevin](https://github.com/KISHOREkevin)
 - [NandaMonroe](https://github.com/NandaMonroe)
 - [waltofalltrades]
+- [wagger]
 - [Sivaselvan]
 - [Anurag Singh](https://github.com/anuragsingh6886)
 - [Colin] (https://github.com/Coltnickers)
@@ -247,6 +248,7 @@ happy# Contributors
 - [Joseph Laity]
 - [chandu venna]
 - [Bryan Record]
+- [Tom Page]
 - [Armaan Raj Thakur]
 - [Mert Aptoula Chousein] (https://github.com/aptoulam)
 - [Chris Baker](https://github.com/gulpfood5)
